@@ -231,6 +231,14 @@ h2{
     margin-top: 90px;
 }
 
+.dropdn-high{
+    margin-top: 60px;
+}
+
+#dropdn-high{
+    margin-bottom: 10px;
+}
+
 select{
     background: transparent;
     border: 0;
